@@ -5,7 +5,7 @@ This is a simple and fun Rock-Paper-Scissors game created using vanilla JavaScri
 
 ## How to Play
 
-Click [here]() and good look! 😈
+Click [here](https://moaramiranda.github.io/rock-paper-scissors-game/) and good look! 😈
 
 ## Features
 
