@@ -18,7 +18,7 @@ function playerPlays() {
     return null;
   }
 
-  playerSelection = playerSelection.toLowerCase();
+  playerSelection = playerSelection.toLowerCase().trim();
 
   if (!options.includes(playerSelection)) {
     alert(
